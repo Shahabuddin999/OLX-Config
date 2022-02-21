@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: postgre
-    url: jdbc:postgresql://localhost/olxuser
+    url: jdbc:postgresql://localhost/olxuser_User
     username: postgres
   jpa:
     hibernate:
